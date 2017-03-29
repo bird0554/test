@@ -3,6 +3,7 @@ weqwewqewqewqewqewq
 
 sdfdsfsdff
 dsfdsf
+
 dsfdsfdsff
 sdfdsfsdffff
 dsfdsffd
@@ -10,18 +11,15 @@ fds
 fsd
 fdsf
 dsfdsfff
-<<<<<<< HEAD
+
 bug
 
-dsfdsfdsffsdfdsfdsf
-dsfdsfsfds
-fd
-sfds
 
 dfd
+
 sfs
 
 new
-=======
+
 bug
->>>>>>> parent of 87b976e... hebing
+
